@@ -1,0 +1,4 @@
+gitignore
+=========
+
+Standard .gitignore files
