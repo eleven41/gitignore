@@ -1,4 +1,3 @@
-gitignore
-=========
+# gitignore
 
-Standard .gitignore files
+A collection of useful .gitignore templates
