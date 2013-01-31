@@ -1,3 +1,3 @@
 # gitignore
 
-A collection of useful .gitignore templates.
+A collection of useful .gitignore templates
